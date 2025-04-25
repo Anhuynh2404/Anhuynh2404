@@ -23,13 +23,7 @@
 
 ---
 
-Dưới đây là cách bạn có thể thêm phần **"Câu lạc bộ yêu thích"** vào README cùng với việc chèn hình ảnh sinh động cho phần này:
-
----
-
 ### ⚽ **I'm a Big Fan of Arsenal!** 🔴⚪
 
-
-```markdown
 ![Arsenal Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJ4ajFyMzhtczEyOXE5cmZsMWxxcTg1bzZtbWg5azV5OHYxeWtsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZciYao3yV98Q0hYBdK/giphy.gif)
-```
+
