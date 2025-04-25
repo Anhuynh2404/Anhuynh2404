@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔧 [Line Follower Robot](https://github.com/nguyenvana/line-follower) – Arduino + PID + 5 IR Sensors
+- 🔧 
 
 
 ---
