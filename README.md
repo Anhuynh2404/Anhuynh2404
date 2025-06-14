@@ -28,8 +28,6 @@
 ### 🚀 Featured Projects
 | 🔧 Project | 🌟 Description |
 |-----------|----------------|
-| **Smart Door Lock System** | 🔐 Fingerprint-based smart lock using Arduino, ESP8266, and Blynk IoT |
-| **Real-time Delivery Tracking** | 🚚 JavaFX client & RMI server tracking orders in real time |
 | *(More Coming Soon)* | 📌 Stay tuned for upcoming Embedded & IoT projects |
 
 ---
