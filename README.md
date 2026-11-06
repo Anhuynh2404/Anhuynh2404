@@ -5,7 +5,9 @@
 
 <!-- DÒNG CHỮ CHẠY ĐỘNG (ĐÃ MÃ HÓA URL CHUẨN, KHÔNG BỊ VỠ ẢNH) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EF0107¢er=true&vCenter=true&width=750&lines=System+Verification+%26+Validation+%7C+Windchill+PLM+Workflows;Android+Development+with+Kotlin+%26+Jetpack+Compose;AI-Powered+Workspace+Design+%26+Prompt+Engineering;Victoria+Concordia+Crescit+%E2%80%94+Victory+Through+Harmony" alt="Typing SVG" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000¢er=true&vCenter=true&width=750&color=EF0107&lines=System+Verification+and+Validation+-+Windchill+PLM;Android+Development+with+Kotlin+and+Jetpack+Compose;AI-Powered+Workspace+Design+and+Prompt+Engineering;Victoria+Concordia+Crescit+-+Victory+Through+Harmony)
+
 </div>
 
 <!-- NHÃN THÔNG TIN (ĐÃ FIX LỖI HIỂN THỊ) -->
