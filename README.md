@@ -1,21 +1,21 @@
-<!-- BANNER SÓNG ĐỎ ARSENAL (ĐÃ FIX LỖI ĐÈ CHỮ & MẤT CHỮ) -->
+<!-- BANNER SÓNG ĐỎ ARSENAL (ĐÃ CĂN CHỈNH KHOẢNG CÁCH DÒNG THOÁNG ĐẸP) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EF0107&height=230§ion=header&text=Hu%E1%BB%B3nh%20C%C3%B4ng%20An&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Software%20Testing%20Engineer%20%7C%20AI%20Application%20Developer&descSize=18&descAlignY=64&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=EF0107&height=240&text=Hu%E1%BB%B3nh%20C%C3%B4ng%20An&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Testing%20Engineer%20%7C%20AI%20Application%20Developer&descSize=18&descAlignY=68&animation=fadeIn" width="100%" alt="Header Banner" />
 </div>
 
-<!-- DÒNG CHỮ CHẠY ĐỘNG (ĐÃ MÃ HÓA URL CHUẨN, KHÔNG BỊ VỠ ẢNH) -->
+<!-- DÒNG CHỮ CHẠY ĐỘNG (ĐÃ ĐƯA center=true LÊN ĐẦU ĐỂ CĂN GIỮA TUYỆT ĐỐI) -->
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000¢er=true&vCenter=true&width=750&color=EF0107&lines=System+Verification+and+Validation+-+Windchill+PLM;Android+Development+with+Kotlin+and+Jetpack+Compose;AI-Powered+Workspace+Design+and+Prompt+Engineering;Victoria+Concordia+Crescit+-+Victory+Through+Harmony)
-
+  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=600&size=20&height=45&pause=1000&width=800&color=EF0107&lines=System+Verification+and+Validation+%7C+Windchill+PLM;Android+Development+with+Kotlin+and+Jetpack+Compose;AI-Powered+Workspace+Design+and+Prompt+Engineering;Victoria+Concordia+Crescit+%E2%80%94+Victory+Through+Harmony" alt="Typing SVG" />
 </div>
 
-<!-- NHÃN THÔNG TIN (ĐÃ FIX LỖI HIỂN THỊ) -->
-<p align="center">
+<br/>
+
+<!-- NHÃN THÔNG TIN -->
+<div align="center">
   <img src="https://img.shields.io/badge/Focus-Quality_&_Precision-EF0107?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Philosophy-Victoria_Concordia_Crescit-DBB42C?style=for-the-badge&labelColor=063672" alt="Philosophy" />
   <img src="https://img.shields.io/badge/Location-Da_Nang,_Vietnam-00A859?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
+</div>
 
 ---
 
@@ -73,8 +73,14 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Anhuynh2404&show_icons=true&bg_color=FFFFFF&title_color=EF0107&text_color=063672&icon_color=EF0107&border_color=EF0107&border_radius=8)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anhuynh2404&layout=compact&bg_color=FFFFFF&title_color=EF0107&text_color=063672&border_color=EF0107&border_radius=8)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anhuynh2404&theme=solarized)
+
+</div>
+
+<div align="center">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anhuynh2404&theme=solarized)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anhuynh2404&theme=solarized)
 
 </div>
 
