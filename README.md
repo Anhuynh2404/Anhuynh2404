@@ -73,14 +73,8 @@
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anhuynh2404&theme=solarized)
-
-</div>
-
-<div align="center">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anhuynh2404&theme=solarized)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anhuynh2404&theme=solarized)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Anhuynh2404&show_icons=true&bg_color=FFFFFF&title_color=EF0107&text_color=063672&icon_color=EF0107&border_color=EF0107&border_radius=8)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anhuynh2404&layout=compact&bg_color=FFFFFF&title_color=EF0107&text_color=063672&border_color=EF0107&border_radius=8)
 
 </div>
 
