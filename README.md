@@ -1,6 +1,6 @@
 <!-- BANNER SÓNG ĐỎ ARSENAL (ĐÃ CĂN CHỈNH KHOẢNG CÁCH DÒNG THOÁNG ĐẸP) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=EF0107&height=240&text=Hu%E1%BB%B3nh%20C%C3%B4ng%20An&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Testing%20Engineer%20%7C%20AI%20Application%20Developer&descSize=18&descAlignY=68&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=EF0107&height=240&text=Hu%E1%BB%B3nh%20C%C3%B4ng%20An&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=System%20Testing%20Engineer%20%7C%20AI%20Application%20Developer&descSize=18&descAlignY=68&animation=fadeIn" width="100%" alt="Header Banner" />
 </div>
 
 <!-- DÒNG CHỮ CHẠY ĐỘNG (ĐÃ ĐƯA center=true LÊN ĐẦU ĐỂ CĂN GIỮA TUYỆT ĐỐI) -->
